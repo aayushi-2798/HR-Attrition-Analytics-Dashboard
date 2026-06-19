@@ -155,7 +155,7 @@ The analysis was performed using SQL, Python and Excel Dashboarding techniques.
 
 
 
-!\[Dashboard](Image/Dashboard.png)
+!\[Dashboard](./Image/Dashboard.png)
 
 
 
